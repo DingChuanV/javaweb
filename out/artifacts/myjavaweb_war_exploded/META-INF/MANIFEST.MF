@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: DELL
+Build-Jdk: 1.8.0_312
+Main-Class: Main
+Class-Path: mysql-connector-java-5.1.47.jar druid-1.2.5.jar jsp-api-2.2.
+ jar javax.servlet-api-3.1.0.jar commons-fileupload-1.4.jar commons-io-2
+ .7.jar commons-lang3-3.12.0.jar jstl-1.2.jar standard-1.1.2.jar slf4j-l
+ og4j12-1.7.30.jar slf4j-api-1.7.30.jar log4j-1.2.17.jar lombok-1.18.20.
+ jar
+
